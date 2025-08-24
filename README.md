@@ -10,5 +10,5 @@ We see that loss increases exponentially as the probability output of a binary m
 ## Label = 1
 ![Loss graph of a BCE model for label = 1](labelOne.png "Label = 1")
 
-## Label = 2
+## Label = 0
 ![Loss graph of a BCE model for label = 1](labelTwo.png "Label = 1")
